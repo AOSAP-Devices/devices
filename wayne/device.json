@@ -1,0 +1,16 @@
+{
+    "brand": "Xiaomi",
+    "model": "Mi 6X",
+    "codename": "wayne",
+    "last_version": "eleven",
+    "specs": {
+        "cpu": "Octa-core (Kryo 260 Gold & Kryo 260 Silver)",
+        "chipset": "Qualcomm SDM660 Snapdragon 660",
+        "gpu": "Adreno 512",
+        "memory": "4/6 GB RAM",
+        "storage": "32/64/128 GB (UFS 2.0)",
+        "battery": "Non-removable Li-Po 3000 mAh",
+        "display": "1080 x 2160 pixels, 5.99 inches",
+        "camera": "12MP, 20MP, 20MP(Selfie)"
+    }
+}
